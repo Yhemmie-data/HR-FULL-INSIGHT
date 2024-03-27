@@ -19,3 +19,18 @@ The extraction of the dataset was carried out using Power Query to facilitate ef
 ![hr 1](https://github.com/Yhemmie-data/HR-FULL-INSIGHT/assets/162053652/0b061c84-5752-4cbc-b8d5-e56ec598f437)
 
 The data was loaded into Power BI in CSV (Comma-Separated Values) format, a widely used file format for storing tabular data. Power BI seamlessly integrates with CSV files, allowing for easy importation and subsequent analysis of the dataset.
+
+
+![HR2](https://github.com/Yhemmie-data/HR-FULL-INSIGHT/assets/162053652/17cef468-f120-400c-8c04-926d420f1a69)
+
+By utilizing Power Query's functionality to handle delimiters, each piece of information previously separated by tabs was allocated to its respective column. This transformation ensured that the dataset was properly structured and ready for further analysis, enhancing the efficiency and accuracy of subsequent data exploration and visualization tasks within Power BI.
+
+
+![HR3](https://github.com/Yhemmie-data/HR-FULL-INSIGHT/assets/162053652/8ac62b29-f018-49b9-be7b-ce49eb1e5c8f)
+
+
+
+
+
+
+
