@@ -29,6 +29,13 @@ By utilizing Power Query's functionality to handle delimiters, each piece of inf
 ![HR3](https://github.com/Yhemmie-data/HR-FULL-INSIGHT/assets/162053652/8ac62b29-f018-49b9-be7b-ce49eb1e5c8f)
 
 
+### Exploratory Data Analysis : 
+An initial exploratory analysis was undertaken using Power BI to gain a comprehensive understanding of the dataset. This analysis is organized into distinct sections aimed at providing thorough insights. The first part of the analysis focuses on several key variables: job level, service year, distance status, and promotion status. This segmentation aids in dissecting the dataset and comprehending the relationships between these variables.
+The second visualization, labelled "Action," show the names of employees earmarked for promotion as well as those slated for retrenchment. This section provides a clear overview of the impending workforce changes.
+Moving on, the third visualization, referred to as "Details," presents various bar graphs depicting the distribution of promotions and retrenchments across different organizational dimensions. These dimensions include departmental affiliations, job roles, job satisfaction levels, and job ratings. This detailed breakdown facilitates a nuanced understanding of how these factors interplay in the decision-making process regarding promotions and retrenchments within the dataset.
+
+
+
 
 
 
